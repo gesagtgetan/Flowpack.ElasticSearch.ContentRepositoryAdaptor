@@ -1,11 +1,11 @@
 {
-    "name": "flowpack/elasticsearch-contentrepositoryadaptor",
+    "name": "gesagtgetan/elasticsearch-contentrepositoryadaptor",
     "type": "neos-package",
-    "description": "This package provides functionality for using Elasticsearch on top of Neos.ContentRepository.Search",
+    "description": "Only needed until current project is up to date with newest PHP version",
     "homepage": "http://flowpack.org/",
     "license": ["LGPL-3.0-only"],
     "require": {
-        "php": "^7.2",
+        "php": "^7.1",
         "ext-json": "*",
 
         "flowpack/elasticsearch": "^2.0 || ^3.0 || dev-master",
